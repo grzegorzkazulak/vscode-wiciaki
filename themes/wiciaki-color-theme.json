@@ -1,0 +1,211 @@
+{
+	"tokenColors": [
+		{
+			"settings": {
+				"foreground": "#DBDBDB"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#445D75"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#cfaf3a"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#7DFF8E"
+			}
+		},
+		{
+			"name": "Built-in constant",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#96e3ed"
+			}
+		},
+		{
+			"name": "User-defined constant",
+			"scope": [
+				"constant.character",
+				"constant.other"
+			],
+			"settings": {
+				"foreground": "#A6DBFFA3"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#b7fa78cc"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#DB7500"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "Storage type",
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "Class name",
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#A6E22E"
+			}
+		},
+		{
+			"name": "Inherited class",
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"foreground": "#A6E22E"
+			}
+		},
+		{
+			"name": "Function name",
+			"scope": "entity.name.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#81BCE3"
+			}
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#90BCD69E"
+			}
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#1c7792"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#A6E22E"
+			}
+		},
+		{
+			"name": "Library function",
+			"scope": "support.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#00A6B5"
+			}
+		},
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "Library class/type",
+			"scope": [
+				"support.type",
+				"support.class"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "Library variable",
+			"scope": "support.other.variable",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#BFBFBF"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": "invalid",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#F8F8F0"
+			}
+		},
+		{
+			"name": "Invalid deprecated",
+			"scope": "invalid.deprecated",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		}
+	],
+	"colors": {
+		"editor.background": "#010a11",
+		"editorPane.background": "#010a11",
+		"editorBracketMatch.border":"#40ce40",
+		"editor.findMatchBackground":"#40ce4085",
+		"editor.findMatchHighlightBackground": "#40ce4057",
+		"editorCursor.foreground": "#ffff",
+		"editor.foreground": "#DBDBDB",
+		"editorWhitespace.foreground": "#5862692a",
+		"editor.lineHighlightBackground": "#2a506d56",
+		"editorGroupHeader.tabsBackground": "#010a11",
+		"editorGroupHeader.tabsBorder": "#010a11",		
+		"activityBar.activeBackground": "#010a11",
+		"activityBar.background": "#010a11",
+		"activityBar.inactiveForeground":"#beeaff9a",
+		"sideBar.background": "#010a11",
+		"tab.border": "#010a11",		
+		"tab.activeBackground": "#010e18",
+		"tab.activeForeground": "#ffffff",
+		"tab.activeBorder": "#1d72aa",
+		"tab.inactiveBackground": "#010a11",
+		"window.activeBorder": "#010a11",
+		"titleBar.activeBackground": "#01080e",
+		"titleBar.activeForeground": "#fff",
+		"input.background": "#01080e",
+		"badge.background": "#1d72aa",
+		"list.activeSelectionBackground":"#011d2b",
+		"list.inactiveSelectionBackground":"#042b3f",
+		"editorGroup.focusedEmptyBorder":"#010a11",
+		"tab.unfocusedActiveBorder": "#689d6a",
+		"statusBar.border": "#010a11",
+		"statusBar.background": "#07131d",
+		"sideBarSectionHeader.background":"#02121f",
+		"editor.selectionBackground": "#04252c",
+		"editor.selectionHighlightBackground": "#032730",
+		"quickInput.background": "#021320",
+		"sideBar.foreground":"#add0e4b0"
+	},
+	"name": "Wiciaki"
+}

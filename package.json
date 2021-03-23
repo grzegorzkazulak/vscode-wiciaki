@@ -1,0 +1,21 @@
+{
+    "name": "Wiciaki",
+    "displayName": "Wiciaki",
+    "description": "Eeasy on the eye dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wiciaki",
+                "uiTheme": "vs-dark",
+                "path": "./themes/wiciaki-color-theme.json"
+            }
+        ]
+    }
+}
